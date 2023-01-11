@@ -1,3 +1,8 @@
+# Opened
+implemntasi aplikasi todo list sederhana dari tutorial https://www.youtube.com/watch?v=MXId-Ae6k_I dan dimodifikasi dari segi tampilan
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
